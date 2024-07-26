@@ -1,0 +1,535 @@
+{   
+    "id": 1,
+    "subject": "Math",
+    "categories": [
+    {
+        "id": 1,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDF7SMgZTiAw3ymD_XD2P2M40F14hHMmbCQ&s",
+        "label": "Addition",
+        "questions": [
+            {
+                "id": 1,
+                "question": "2 + 8"
+            },
+            {
+                "id": 2,
+                "question": "5 + 4"
+            },
+            {
+                "id": 3,
+                "question": "21 + 30"
+            },
+            {
+                "id": 4,
+                "question": "10 + 10"
+            },
+            {
+                "id": 5,
+                "question": "90 + 5"
+            },
+            {
+                "id": 6,
+                "question": "6 + 9"
+            },
+            {
+                "id": 7,
+                "question": "8 + 3"
+            },
+            {
+                "id": 8,
+                "question": "50 + 46"
+            },
+            {
+                "id": 9,
+                "question": "19 + 19"
+            },
+            {
+                "id": 10,
+                "question": "17 + 14"
+            },
+            {
+                "id": 11,
+                "question": "38 + 8"
+            },
+            {
+                "id": 12,
+                "question": "42 + 11"
+            },
+            {
+                "id": 13,
+                "question": "16 + 4"
+            },
+            {
+                "id": 14,
+                "question": "23 + 9"
+            },
+            {
+                "id": 15,
+                "question": "92 + 5"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSMKcu0VVgmr5-eZVDn09CKv2ZvqFUA3cHQ&s",
+        "label": "Subtraction",
+        "questions": [
+            {
+                "id": 1,
+                "question": "9 - 3"
+            },
+            {
+                "id": 2,
+                "question": "15 - 8"
+            },
+            {
+                "id": 3,
+                "question": "43 - 3"
+            },
+            {
+                "id": 4,
+                "question": "80 - 9"
+            },
+            {
+                "id": 5,
+                "question": "75 - 18"
+            },
+            {
+                "id": 6,
+                "question": "32 - 8"
+            },
+            {
+                "id": 7,
+                "question": "81 - 2"
+            },
+            {
+                "id": 8,
+                "question": "54 - 5"
+            },
+            {
+                "id": 9,
+                "question": "48 - 5"
+            },
+            {
+                "id": 10,
+                "question": "32 - 17"
+            },
+            {
+                "id": 11,
+                "question": "90 - 40"
+            },
+            {
+                "id": 12,
+                "question": "85 - 19"
+            },
+            {
+                "id": 13,
+                "question": "65 - 18"
+            },
+            {
+                "id": 14,
+                "question": "50 - 25"
+            },
+            {
+                "id": 15,
+                "question": "40 - 17"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKs7gd90HVELVwXr65f7tVT-KnOc3flgPyQ&s",
+        "label": "Multiplication",
+        "questions": [
+            {
+                "id": 1,
+                "question": "2 * 2"
+            },
+            {
+                "id": 2,
+                "question": "9 * 8"
+            },
+            {
+                "id": 3,
+                "question": "6 * 7"
+            },
+            {
+                "id": 4,
+                "question": "5 * 7"
+            },
+            {
+                "id": 5,
+                "question": "11 * 11"
+            },
+            {
+                "id": 6,
+                "question": "10 * 5"
+            },
+            {
+                "id": 7,
+                "question": "7 * 7"
+            },
+            {
+                "id": 8,
+                "question": "99 * 0"
+            },
+            {
+                "id": 9,
+                "question": "78 * 1"
+            },
+            {
+                "id": 10,
+                "question": "5 * 4"
+            },
+            {
+                "id": 11,
+                "question": "9 * 3"
+            },
+            {
+                "id": 12,
+                "question": "7 * 2"
+            },
+            {
+                "id": 13,
+                "question": "8 * 2"
+            },
+            {
+                "id": 14,
+                "question": "14 * 9"
+            },
+            {
+                "id": 15,
+                "question": "51 * 2"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52iLUvUtZSckqHGF-GCz1pvzrPjhb23d_zw&s",
+        "label": "Addition Word Problems",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Tommy has 3 toy cars, and his sister gives him 2 more toy cars. How many cars does Tommy have in total?",
+                "answer": "5"
+            },
+            {
+                "id": 2,
+                "question": "There are 6 red balloons and 4 blue balloons at a birthday party. How many balloons are there in total?",
+                "answer": "10"
+            },
+            {
+                "id": 3,
+                "question": "7 red apples and 2 green apples are in a basket. How many apples are there in the basket?",
+                "answer": "9"
+            },
+            {
+                "id": 4,
+                "question": "Ellen has 6 more balls than Marin. Marin has 9 balls. How many balls does Ellen have?",
+                "answer": "15"
+            },
+            {
+                "id": 5,
+                "question": "Janet has 9 oranges and Sharon has 7 oranges. How many oranges do Janet and Sharon have together?",
+                "answer": "16"
+            },
+            {
+                "id": 6,
+                "question": "Allan has 2 peaches and Jake has 4 peaches. How many peaches do Allan and Jake have together?",
+                "answer": "6"
+            },
+            {
+                "id": 7,
+                "question": "Adam has 5 more apples than Jackie. Jackie has 9 apples. How many apples does Adam have?",
+                "answer": "14"
+            },
+            {
+                "id": 8,
+                "question": "Brian has 4 more plums than Paul. Paul has 7 plums. How many plums does Brian have?",
+                "answer": "11"
+            },
+            {
+                "id": 9,
+                "question": "Audrey has 3 more marbles than Billy. Billy has 2 marbles. How many marbles does Audrey have?",
+                "answer": "5"
+            },
+            {
+                "id": 10,
+                "question": "On a table there were 17 small plates and 13 big plates. How many plates are there altogether?",
+                "answer": "30"
+            },
+            {
+                "id": 11,
+                "question": "On a bookshelf there are 45 comic books and 29 story books. How many books are there on the bookshelf?",
+                "answer": "74"
+            },
+            {
+                "id": 12,
+                "question": "A laundry boy pressed 16 shirts and 28 trousers. How many clothes did he press altogether?",
+                "answer": "44"
+            },
+            {
+                "id": 13,
+                "question": "There are 36 children in class one, 9 more joined. How many children are there in class one?",
+                "answer": "45"
+            },
+            {
+                "id": 14,
+                "question": "There are 40 cars on the road. 13 more drive onto the road. How many cars are there on the road now?",
+                "answer": "53"
+            },
+            {
+                "id": 15,
+                "question": "At the zoo I saw 6 penguins swimming and 7 penguins standing on the rocks. How many penguins did I see in all?",
+                "answer": "13"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtH1Na5fHGL2jsdj5CZNaYlCPCqh4rtjP88w&s",
+        "label": "Subtraction Word Problems",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Amina had Rs 20, and she spent Rs 8 on a cake. How much money does she have left?",
+                "answer": "12"
+            },
+            {
+                "id": 2,
+                "question": "There are 36 books on the shelf, 24 of them are fiction books. How many are non-fiction books?",
+                "answer": "12"
+            },
+            {
+                "id": 3,
+                "question": "There are 20 students in Grade 1. 12 of them are Girls. How many Boys are in Grade 1?",
+                "answer": "8"
+            },
+            {
+                "id": 4,
+                "question": "I had 30 marbles, I gave 21 of them to John. How many marbles are left with me now?",
+                "answer": "9"
+            },
+            {
+                "id": 5,
+                "question":"Mary had 17 oranges. She gave away 6 to her friends. How many did she have left?",
+                "answer": "11"
+            },
+            {
+                "id": 6,
+                "question": "10 eagles sat on a cliff. Some eagles flew away and then there were 7 eagles on the cliff. How many eagles flew away?",
+                "answer": "3"
+            },
+            {
+                "id": 7,
+                "question": "Kevin has 36 eggs, 12 are eaten by a monkey. How many eggs will Kevin have now?",
+                "answer": "24"
+            },
+            {
+                "id": 8,
+                "question": "Joshua starts with 20 apples, his sister Angela takes away 4. How many apples will Joshua have now?",
+                "answer": "16"
+            },
+            {
+                "id": 9,
+                "question": "There are 70 chocolates in a box. Adrian takes 20. How many are left?",
+                "answer": "50"
+            },
+            {
+                "id": 10,
+                "question": "There are 50 oranges in the box, Julian takes 14. How many are left?",
+                "answer": "36"
+            },
+            {
+                "id": 11,
+                "question": "Leo has 49 eggs. He gives 14 to Emma. How many eggs will Leo have now?",
+                "answer": "35"
+            },
+            {
+                "id": 12,
+                "question": "Ethan has 100 peanuts, 44 were eaten by a monkey. How many peanuts will Ethan have now?",
+                "answer": "56"
+            },
+            {
+                "id": 13,
+                "question": "There were 33 flowers on the ground. Sita picks 18 of them. How many flowers are still on the ground?",
+                "answer": "15"
+            },
+            {
+                "id": 14,
+                "question": "John had 50 pieces of building blocks. He used 15 of them to make a toy car. How many are left?",
+                "answer": "35"
+            },
+            {
+                "id": 15,
+                "question": "Lily throws 6 snowballs at her friends. She hits 4 of them. How many friends did Lily miss?",
+                "answer": "2"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfs8eYOGwDt22OBANeLSADB72V0hXxG3Ex9g&s",
+        "label": "Write the number in words",
+        "questions": [
+            { 
+                "id": 1,
+                "question": "2",
+                "answer": "Two"
+            },
+            {
+                "id": 2,
+                "question": "8",
+                "answer": "Eight"
+            },
+            {
+                "id": 3,
+                "question": "5",
+                "answer": "Five"
+            },
+            {
+                "id": 4,
+                "question": "0",
+                "answer": "Zero"
+            },
+            {
+                "id": 5,
+                "question": "9",
+                "answer": "Nine"
+            },
+            {
+                "id": 6,
+                "question": "12",
+                "answer": "Twelve"
+            },
+            {
+                "id": 7,
+                "question": "47",
+                "answer": "Forty-seven"
+            },
+            {
+                "id": 8,
+                "question": "23",
+                "answer": "Twenty-three"
+            },
+            {
+                "id": 9,
+                "question": "58",
+                "answer": "Fifty-eight"
+            },
+            {
+                "id": 10,
+                "question": "44",
+                "answer": "Forty-four"
+            },
+            {
+                "id": 11,
+                "question": "31",
+                "answer": "Thirty-one"
+            },
+            {
+                "id": 12,
+                "question": "16",
+                "answer": "Sixteen"
+            },
+            {
+                "id": 13,
+                "question": "77",
+                "answer": "Seventy-seven"
+            },
+            {
+                "id": 14,
+                "question": "96",
+                "answer": "Ninety-six"
+            },
+            {
+                "id": 15,
+                "question": "85",
+                "answer": "Eighty-five"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMQAVtIXUsaBP1En5aNOjk7wu3rh0JLmNKw&s",
+        "label": "Write the correct number for each word",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Eight",
+                "answer": "8"
+            },
+            {
+                "id": 2,
+                "question": "Sixteen",
+                "answer": "16"
+            },
+            {
+                "id": 3,
+                "question": "Fourteen",
+                "answer": "14"
+            },
+            {
+                "id": 4,
+                "question": "Twenty",
+                "answer": "20"
+            },
+            {
+                "id": 5,
+                "question": "Eleven",
+                "answer": "11"
+            },
+            {
+                "id": 6,
+                "question": "Twenty-nine",
+                "answer": "29"
+            },
+            {
+                "id": 7,
+                "question": "Seventy-five",
+                "answer": "75"
+            },
+            {
+                "id": 8,
+                "question": "Ninety-two",
+                "answer": "92"
+            },
+            {
+                "id": 9,
+                "question": "Thirty-five",
+                "answer": "35"
+            },
+            {
+                "id": 10,
+                "question": "Fifty-two",
+                "answer": "52"
+            },
+            {
+                "id": 11,
+                "question": "Ten",
+                "answer": "10"
+            },
+            {
+                "id": 12,
+                "question": "Nine",
+                "answer": "9"
+            },
+            {
+                "id": 13, 
+                "question": "Twenty-two",
+                "answer": "22"
+            },
+            {
+                "id": 14,
+                "question": "Thirty-nine",
+                "answer": "39"
+            },
+            {
+                "id": 15,
+                "question": "Forty-seven",
+                "answer": "47"
+            }
+        ]
+    }
+]
+}

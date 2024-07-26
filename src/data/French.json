@@ -1,0 +1,252 @@
+{
+    "id": 3,
+    "subject": "French",
+    "categories": [
+        {
+            "id": 1,
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBZJFlbEDGwNpGlZpwr7ah-OeyyruuXhfIA&s",
+            "label": "Conjuguez les verbes entre parenthèses au passé composé.",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "(manger) Hier soir, j’_________ au restaurant.",
+                    "answer": "ai mangé"
+                },
+                {
+                    "id": 2,
+                    "question": "(trouver) Tu _________ un portefeuille dans la rue.",
+                    "answer": "as trouvé"
+                },
+                {
+                    "id": 3,
+                    "question": "(acheter) Nous _________ un nouveau canapé pour le salon.",
+                    "answer": "avons acheté"
+                },
+                {
+                    "id": 4,
+                    "question": "(regarder) Elle _________ le dernier épisode de sa série préférée.",
+                    "answer": "a regardé"
+                },
+                {
+                    "id": 5,
+                    "question": "(visiter) Ils _________ le musée d'art moderne le mois dernier.",
+                    "answer": "ont visité"
+                },
+                {
+                    "id": 6,
+                    "question": "(devoir) Il __________ téléphoner au médecin.",
+                    "answer": "a dû"
+                },
+                {
+                    "id": 7,
+                    "question": "(commencer) Nous _______________ un nouveau cours.",
+                    "answer": "avons commencé"
+                },
+                {
+                    "id": 8,
+                    "question": "(faire) Vous ____________ de l'exercice physique.",
+                    "answer": "avez fait"
+                },
+                {
+                    "id": 9,
+                    "question": "(manger) Hier soir, nous ____________ tôt.",
+                    "answer": "avons mangé"
+                },
+                {
+                    "id": 10,
+                    "question": "(mourir) Le héros ____________ à la fin du film.",
+                    "answer": "est mort"
+                },
+                {
+                    "id": 11,
+                    "question": "(vendre) Mes frères ___________ leurs articles de sport.",
+                    "answer": "ont vendu"
+                },
+                {
+                    "id": 12,
+                    "question": "(vouloir) Mes voisins ___________ quitter le pays.",
+                    "answer": "ont voulu"
+                },
+                {
+                    "id": 13,
+                    "question": "(promettre) J'_______ de dire la vérité.",
+                    "answer": "ai promis"
+                },
+                {
+                    "id": 14,
+                    "question": "(envoyer) Tu _________ un message à tes amis.",
+                    "answer": "as envoyé"
+                },
+                {
+                    "id": 15,
+                    "question": "(plaire) Le petit chat _______ à mes parents.",
+                    "answer": "a plu"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "img": "https://i.pinimg.com/originals/2c/0c/d5/2c0cd59a9d8f62888cb525cd98f4b1be.png",
+            "label": "Écrivez le contraire des mots",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Jeune",
+                    "answer": "Vieux"
+                },
+                {
+                    "id": 2,
+                    "question": "Proche",
+                    "answer": "Lointain"
+                },
+                {
+                    "id": 3,
+                    "question": "Tôt",
+                    "answer": "Tard"
+                },
+                {
+                    "id": 4,
+                    "question": "Fort",
+                    "answer": "Faible"
+                },
+                {
+                    "id": 5,
+                    "question": "Rapide",
+                    "answer": "Lente"
+                },
+                {
+                    "id": 6,
+                    "question": "Joyeux",
+                    "answer": "Triste"
+                },
+                {
+                    "id": 7,
+                    "question": "Chaud",
+                    "answer": "Froid"
+                },
+                {
+                    "id": 8,
+                    "question": "Grand",
+                    "answer": "Petit"
+                },
+                {
+                    "id": 9,
+                    "question": "Bruyant",
+                    "answer": "Silencieux"
+                },
+                {
+                    "id": 10,
+                    "question": "Haut",
+                    "answer": "Bas"
+                },
+                {
+                    "id": 11,
+                    "question": "Puissant",
+                    "answer": "Faible"
+                },
+                {
+                    "id": 12,
+                    "question": "Vrai",
+                    "answer": "Faux"
+                },
+                {
+                    "id": 13,
+                    "question": "Nouveau",
+                    "answer": "Ancien"
+                },
+                {
+                    "id": 14,
+                    "question": "Avant",
+                    "answer": "Après"
+                },
+                {
+                    "id": 15,
+                    "question": "Plus",
+                    "answer": "Moins"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "img": "https://i.etsystatic.com/25631603/r/il/04f004/2643229171/il_fullxfull.2643229171_ddoe.jpg",
+            "label": "Écrivez les nombres en mots",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "1",
+                    "answer": "Un"
+                },
+                {
+                    "id": 2,
+                    "question": "2",
+                    "answer": "Deux"
+                },
+                {
+                    "id": 3,
+                    "question": "3",
+                    "answer": "Trois"
+                },
+                {
+                    "id": 4,
+                    "question": "4",
+                    "answer": "Quatre"
+                },
+                {
+                    "id": 5,
+                    "question": "5",
+                    "answer": "Cinq"
+                },
+                {
+                    "id": 6,
+                    "question": "6",
+                    "answer": "Six"
+                },
+                {
+                    "id": 7,
+                    "question": "7",
+                    "answer": "Sept"
+                },
+                {
+                    "id": 8,
+                    "question": "8",
+                    "answer": "Huit"
+                },
+                {
+                    "id": 9,
+                    "question": "9",
+                    "answer": "Neuf"
+                },
+                {
+                    "id": 10,
+                    "question": "10",
+                    "answer": "Dix"
+                },
+                {
+                    "id": 11,
+                    "question": "11",
+                    "answer": "Onze"
+                },
+                {
+                    "id": 12,
+                    "question": "12",
+                    "answer": "Douze"
+                },
+                {
+                    "id": 13,
+                    "question": "20",
+                    "answer": "Vingt"
+                },
+                {
+                    "id": 14,
+                    "question": "30",
+                    "answer": "Trente"
+                },
+                {
+                    "id": 15,
+                    "question": "15",
+                    "answer": "Quinze"
+                }
+            ]
+        }
+    ]
+}
